@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MsgShareApp</string>
+    <string name="Btn_Show_Toast">පෙන්වන්න ටෝස්ට්</string>
+    <string name="txt_type_here">Type here...</string>
+    <string name="btn_next_page">Pass To Next Page</string>
+    <string name="btn_share_msg">SHARE MESSAGE</string>
+    <string name="btn_recycler">Recycler View &amp; Card View</string>
+    <string name="lbl_button_clicked">Button eka eubuna sarthakawa</string>
+
+</resources>
